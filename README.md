@@ -40,16 +40,9 @@ The exercises progress from very simple programs to structured class-based desig
 
 ---
 
-### **ex02 — The Job of Your Dreams**
-- Re-implementing a missing source file (`Account.cpp`) based on a header and a log file.  
-- Purpose: practice reading code specifications, reconstructing class behavior, and ensuring output matches requirements.  
-- This simulates working in a real dev team where you might have to rebuild missing code.
-
----
-
 ## 🔹 How to Use
 
 ### Build
 Inside each exercise folder:
-```sh
+sh:
 make

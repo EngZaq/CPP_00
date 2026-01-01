@@ -1,6 +1,17 @@
-////////42 header please put it to not fail the project///////
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   megaphone.cpp                                      :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: zal-qais <zal-qais@student.42amman.com>    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2026/01/01 14:20:07 by zal-qais          #+#    #+#             */
+/*   Updated: 2026/01/01 15:36:33 by zal-qais         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
 
 #include <iostream>
+#include <cctype>
 
 int main(int argc, char **argv)
 {
